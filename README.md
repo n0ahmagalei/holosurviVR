@@ -80,12 +80,16 @@ Team
 
 ### This project was developed by Group 4:
 
-Dax Taraleskof — Programmer / Manager
-Riley Saliba — Artist / Animator
-Alfredo Hernandez — Art Team Communication / Documentation
-Noah Magalei — Sound Design / Programming
-Octavio Lozano — Programmer / Systems Designer
-Media
+Dax Taraleskof — Programmer / Manager \\
+Riley Saliba — Artist / Animator \\ 
+Alfredo Hernandez — Art Team Communication / Documentation \\
+Noah Magalei — Sound Design / Programming \\
+Octavio Lozano — Programmer / Systems Designer \\
+
+## Media:
+<img width="2559" height="1374" alt="Screenshot 2026-03-31 140159" src="https://github.com/user-attachments/assets/58704355-b5f6-4905-b765-0ab5af12c281" />
+
+<img width="2559" height="1376" alt="Screenshot 2026-03-31 140208" src="https://github.com/user-attachments/assets/a051e366-e5fe-4840-8728-69e55d62bcef" />
 
 ## Notes:
 holo surviVR was a team-built VR survival project that combined fast-paced gameplay, modular systems, and replayability through randomized weapons and upgrades. For me, it was a strong hands-on project in VR development, sound design, and collaborative game production.
