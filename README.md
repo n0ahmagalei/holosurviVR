@@ -1,14 +1,14 @@
-holo surviVR
+# **holo surviVR**
 
 A first-person VR survival game inspired by games like HoloCure and Vampire Survivors. The objective is simple: survive increasingly difficult enemy waves for 3 minutes, collect experience orbs, level up, and stack upgrades to stay alive as long as possible.
 
-Project Overview
+## Project Overview
 
 holo surviVR was built as a VR class final project in Unity and C#. The game takes the auto-attacking survival formula and reimagines it in a first-person virtual reality setting, where players are surrounded by enemies, forced to reposition constantly, and make quick upgrade decisions while under pressure.
 
 The core idea was to create a replayable VR survival experience where the player spawns with a random set of weapons, fights off continuous waves of enemies, and becomes stronger through level-up upgrades. The pacing was tuned around a short 3-minute run so multiple people could quickly try the game during a showcase setting.
 
-Gameplay Features
+## Gameplay Features
 First-person VR survival combat
 3-minute enemy survival loop
 Increasing enemy count over time
@@ -18,7 +18,7 @@ Upgrade selection menu that pauses gameplay
 Mix of auto-targeting and manual-aim weapons
 Weapons
 
-The game includes four weapon types:
+### The game includes four weapon types:
 
 Automatic Gun
 Automatically fires at the closest enemy and does not require manual aiming.
@@ -30,15 +30,15 @@ Rotating Weapon
 Spawns orbiting spheres around the player that damage enemies on contact.
 Upgrade System
 
-As enemies are defeated, they drop experience orbs. Collecting enough XP causes the player to level up, which pauses the game and brings up an upgrade menu in front of the player. Upgrade options focus on things like:
+### As enemies are defeated, they drop experience orbs. Collecting enough XP causes the player to level up, which pauses the game and brings up an upgrade menu in front of the player. Upgrade options focus on things like:
 
 increasing bullet count
 increasing fire speed
 increasing weapon damage
 
-This system gave the game a stronger sense of progression while also giving players brief breathing room during intense moments.
+### This system gave the game a stronger sense of progression while also giving players brief breathing room during intense moments.
 
-VR Controls
+## VR Controls
 Left joystick / left touchpad: player movement
 Right joystick / right touchpad: snap turn camera left or right
 Left trigger: confirm upgrade selection
@@ -57,13 +57,13 @@ My Contributions
 
 My role on this project focused on sound design, audio implementation, and programming support. I created the in-game sound effects, worked on integrating audio into the experience, and helped support different parts of the project as we moved toward final testing and presentation. I also used Audacity to build out weapon, hit, and enemy-related sound effects.
 
-Development Challenges
+## Development Challenges
 
 Like a lot of VR projects, development came with a few technical headaches. One of the main challenges was dealing with Unity and SteamVR bugs while trying to keep the experience stable and presentation-ready. We also learned a lot about collaboration, version control, and dividing responsibilities across art, audio, UI, and gameplay systems.
 
-What I Learned
+## What I Learned
 
-This project helped reinforce a few important things for me:
+### This project helped reinforce a few important things for me:
 
 designing gameplay for VR requires different pacing and fairness decisions than standard games
 modular scripting makes balancing and iteration much easier
@@ -78,7 +78,7 @@ GitHub
 Trello
 Team
 
-This project was developed by Group 4:
+### This project was developed by Group 4:
 
 Dax Taraleskof — Programmer / Manager
 Riley Saliba — Artist / Animator
@@ -87,13 +87,5 @@ Noah Magalei — Sound Design / Programming
 Octavio Lozano — Programmer / Systems Designer
 Media
 
-Add these sections to make the repo look better on GitHub:
-
-Gameplay screenshots
-Demo video
-GIF of combat or leveling up
-Short clip of the upgrade menu
-Short clip showing enemy waves and weapon effects
-Summary
-
+## Notes:
 holo surviVR was a team-built VR survival project that combined fast-paced gameplay, modular systems, and replayability through randomized weapons and upgrades. For me, it was a strong hands-on project in VR development, sound design, and collaborative game production.
